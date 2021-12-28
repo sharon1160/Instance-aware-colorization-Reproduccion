@@ -44,4 +44,4 @@ Para este paso realizamos la configuración previa del Detectron2. Creamos una c
 
 ## 06 - Visualizando resultados
 
-Para la visualización de los resultados se tomó de ejemplos algunas imágenes. En esta sección mostramos la imagen de entrada en escala de grises y la imágen de salida a color.
+Para la visualización de los resultados se tomó de ejemplo algunas imágenes. En esta sección mostramos la imagen de entrada en escala de grises y la imágen de salida a color.
